@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Office Add-in certificates
+*.crt
+*.key
+*.pem
+
+# Environment files
+.env
+.env.local
+
+# Temporary files
+*.tmp
+*.temp
